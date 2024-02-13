@@ -1,7 +1,6 @@
 
 import AdminSidebar from '../components/AdminSidebar'
 import { LineChart } from '../components/Charts'
-import Products from './Products';
 
 const months = [
   "Jan",
