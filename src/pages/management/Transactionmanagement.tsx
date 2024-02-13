@@ -35,7 +35,7 @@ const Transactionmanagement = () => {
     _id:"dsfad3f54dsf5a",
   });
 
-  const {name,address,city,state,country,pinCode,status,subtotal,
+  const {name,address,city,country,pinCode,status,
   discount,shippingCharges,tax,total} = order;
 
   const updateHandler=()=>{
