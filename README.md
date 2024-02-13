@@ -2,7 +2,7 @@
 
 Welcome to the Admin Dashboard Project! This project is an admin dashboard designed to empower administrators with insightful data visualization, processing capabilities, and a user-friendly interface. Whether you're monitoring key metrics, analyzing charts, or processing data, this dashboard provides a centralized hub for effective decision-making.
 
-link : https://react-admin-dashboard-woad.vercel.app/dashboard
+link : https://react-admin-dashboard-woad.vercel.app/admin/dashboard
 
 ## Table of Contents
 
